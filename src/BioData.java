@@ -1,7 +1,10 @@
 public class BioData {
 
-    public static void main(String [] arg){
-        System.out.println("Hiren");
-
+    public static void main(String[] args){
+        System.out.println("---BIO-DATA---");
+        System.out.println("Name: Hiren Patel");
+        System.out.println("Address: 6, District Road");
+        System.out.println("Wembley");
+        System.out.println("London");
     }
 }
